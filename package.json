@@ -1,0 +1,10 @@
+{
+  "name": "1-web-server",
+  "version": "1.0.0",
+  "description": "A simple Node.js web server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node week1/prep-ex/server.js"
+  },
+  "license": "MIT"
+}
