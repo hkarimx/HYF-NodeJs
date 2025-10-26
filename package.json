@@ -6,5 +6,9 @@
   "scripts": {
     "start": "node week1/prep-ex/server.js"
   },
-  "license": "MIT"
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
